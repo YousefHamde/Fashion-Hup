@@ -1,0 +1,1 @@
+import{j as e}from"./index-DrBYWq9n.js";function s({massage:t}){return e.jsxs("p",{className:"text-center text-[1.8rem] w-4/5 mx-auto my-8 font-semibold text-red-600",children:[e.jsx("span",{role:"img","aria-label":"wave",children:"👋"})," ",t]})}export{s as M};
