@@ -11,7 +11,7 @@ function CartProduct({ product, onIncrease, onDecrease, onRemove }) {
       />
 
       {/* تفاصيل المنتج */}
-      <div className="flex-1">
+      <div className="flex-1 p-0">
         <h3 className="font-medium">{product.title}</h3>
         {/* <p className="text-sm text-gray-500">${product.price.toFixed(2)}</p> */}
         {/* <p className="text-sm text-gray-400">Qty: {product.quantity}</p> */}
